@@ -1,5 +1,5 @@
-🧠 MindMend AI – Intelligent Healthcare Assistant
-MindMend AI is a smart healthcare web app that helps users understand symptoms, get quick health insights, and connect with medical resources.
+🧠 SymptomSense AI – Intelligent Healthcare Assistant
+SymptomSense AI is a smart healthcare web app that helps users understand symptoms, get quick health insights, and connect with medical resources.
 It’s designed to make healthcare information more accessible, fast, and personalized.
 
 🌟 Features
