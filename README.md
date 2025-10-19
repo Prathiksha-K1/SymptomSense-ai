@@ -23,7 +23,7 @@ It’s designed to make healthcare information more accessible, fast, and person
 </p>
 
 🧩 Tech Stack
-Frontend: React (via Bolt), TailwindCSS
+Frontend: React, TailwindCSS
 
 Backend: Supabase
 
